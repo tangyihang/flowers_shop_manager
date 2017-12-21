@@ -1,0 +1,1174 @@
+[ 2017-12-20T15:21:58+08:00 ] 114.249.211.116 /index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:21:58+08:00 ] 114.249.211.116 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:22:05+08:00 ] 114.249.211.116 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:22:05+08:00 ] 114.249.211.116 /index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:22:12+08:00 ] 114.249.211.116 /index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:22:12+08:00 ] 114.249.211.116 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:22:17+08:00 ] 114.249.211.116 /index.php/Api/Category/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:22:19+08:00 ] 114.249.211.116 /index.php/Api/Category/getcat
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:22:20+08:00 ] 114.249.211.116 /index.php/Api/Category/getcat
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:22:21+08:00 ] 114.249.211.116 /index.php/Api/Category/getcat
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:22:22+08:00 ] 114.249.211.116 /index.php/Api/Shopping/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:22:22+08:00 ] 114.249.211.116 /index.php/Api/Shopping/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:22:24+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:22:24+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:22:26+08:00 ] 114.249.211.116 /index.php/Api/Order/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:22:29+08:00 ] 114.249.211.116 /index.php/Api/Order/order_details
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:22:33+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:22:39+08:00 ] 114.249.211.116 /index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:22:40+08:00 ] 114.249.211.116 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:23:34+08:00 ] 114.249.211.116 /index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:23:35+08:00 ] 114.249.211.116 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:24:35+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:24:35+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:24:52+08:00 ] 114.249.211.116 /index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:25:07+08:00 ] 114.249.211.116 /index.php/Api/Shopping/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:25:07+08:00 ] 114.249.211.116 /index.php/Api/Shopping/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:25:08+08:00 ] 114.249.211.116 /index.php/Api/Category/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:25:11+08:00 ] 114.249.211.116 /index.php/Api/Product/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:25:13+08:00 ] 114.249.211.116 /index.php/Api/Shopping/add
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:25:17+08:00 ] 114.249.211.116 /index.php/Api/Shopping/add
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:25:17+08:00 ] 114.249.211.116 /index.php/Api/Payment/buy_cart
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:25:19+08:00 ] 114.249.211.116 /index.php/Api/Address/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:25:31+08:00 ] 114.249.211.116 /index.php/Api/Address/get_province
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:25:42+08:00 ] 114.249.211.116 /index.php/Api/Index/getlist
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:25:48+08:00 ] 114.249.211.116 /index.php/Api/Category/getcat
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:25:48+08:00 ] 114.249.211.116 /index.php/Api/Category/getcat
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:25:49+08:00 ] 114.249.211.116 /index.php/Api/Category/getcat
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:25:49+08:00 ] 114.249.211.116 /index.php/Api/Category/getcat
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:25:54+08:00 ] 114.249.211.116 /index.php/Api/Shopping/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:25:56+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:25:58+08:00 ] 114.249.211.116 /index.php/Api/Order/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:26:00+08:00 ] 114.249.211.116 /index.php/Api/Wxpay/wxpay
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:26:27+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:26:29+08:00 ] 114.249.211.116 /index.php/Api/User/voucher
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:26:32+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:26:33+08:00 ] 114.249.211.116 /index.php/Api/Address/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:26:36+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:26:41+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:26:42+08:00 ] 114.249.211.116 /index.php/Api/Shopping/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:26:54+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:26:55+08:00 ] 114.249.211.116 /index.php/Api/Shopping/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:26:56+08:00 ] 114.249.211.116 /index.php/Api/Shopping/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:26:57+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:27:00+08:00 ] 114.249.211.116 /index.php/Api/Order/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:27:02+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T15:27:10+08:00 ] 114.249.211.116 /index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:42:09+08:00 ] 114.249.211.116 /index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:42:09+08:00 ] 114.249.211.116 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:42:09+08:00 ] 114.249.211.116 /index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:42:14+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:42:14+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:42:28+08:00 ] 114.249.211.116 /index.php/Api/Category/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:42:29+08:00 ] 114.249.211.116 /index.php/Api/Shopping/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:42:29+08:00 ] 114.249.211.116 /index.php/Api/Shopping/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:42:30+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:42:33+08:00 ] 114.249.211.116 /index.php/Api/Address/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:42:34+08:00 ] 114.249.211.116 /index.php/Api/Address/get_province
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:42:39+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:43:22+08:00 ] 114.249.211.116 /index.php/Api/Index/getlist
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:43:28+08:00 ] 114.249.211.116 /index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:43:28+08:00 ] 114.249.211.116 /index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:43:28+08:00 ] 114.249.211.116 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:43:48+08:00 ] 114.249.211.116 /index.php/Api/Category/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:43:49+08:00 ] 114.249.211.116 /index.php/Api/Category/getcat
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:43:50+08:00 ] 114.249.211.116 /index.php/Api/Category/getcat
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:43:51+08:00 ] 114.249.211.116 /index.php/Api/Category/getcat
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:43:51+08:00 ] 114.249.211.116 /index.php/Api/Category/getcat
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:43:53+08:00 ] 114.249.211.116 /index.php/Api/Shopping/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:43:53+08:00 ] 114.249.211.116 /index.php/Api/Shopping/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:43:56+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:43:56+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:44:40+08:00 ] 114.249.211.116 /index.php/Api/Product/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:44:43+08:00 ] 114.249.211.116 /index.php/Api/Shopping/add
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:44:43+08:00 ] 114.249.211.116 /index.php/Api/Payment/buy_cart
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:44:45+08:00 ] 114.249.211.116 /index.php/Api/Payment/payment
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+ERR: 请选择收货地址.374
+
+[ 2017-12-20T16:44:56+08:00 ] 114.249.211.116 /index.php/Api/Address/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:44:57+08:00 ] 114.249.211.116 /index.php/Api/Address/get_province
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000114s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:55:07+08:00 ] 114.249.211.116 /index.php/Api/Address/get_city
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:55:15+08:00 ] 114.249.211.116 /index.php/Api/Address/get_area
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:55:31+08:00 ] 114.249.211.116 /index.php/Api/Address/add_adds
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:55:31+08:00 ] 114.249.211.116 /index.php/Api/Address/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:55:36+08:00 ] 114.249.211.116 /index.php/Api/Address/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:55:38+08:00 ] 114.249.211.116 /index.php/Api/Address/get_province
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:55:46+08:00 ] 114.249.211.116 /index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:55:46+08:00 ] 114.249.211.116 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:55:46+08:00 ] 114.249.211.116 /index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:55:51+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:55:51+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:55:54+08:00 ] 114.249.211.116 /index.php/Api/Address/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:55:56+08:00 ] 114.249.211.116 /index.php/Api/Address/get_province
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:56:15+08:00 ] 114.249.211.116 /index.php/Api/Address/get_city
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:56:22+08:00 ] 114.249.211.116 /index.php/Api/Address/get_area
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:56:29+08:00 ] 114.249.211.116 /index.php/Api/Address/get_code
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:56:46+08:00 ] 114.249.211.116 /index.php/Api/Address/add_adds
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:56:46+08:00 ] 114.249.211.116 /index.php/Api/Address/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:56:49+08:00 ] 114.249.211.116 /index.php/Api/Address/set_default
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:56:49+08:00 ] 114.249.211.116 /index.php/Api/Payment/buy_cart
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:56:54+08:00 ] 114.249.211.116 /index.php/Api/Address/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:56:57+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:57:00+08:00 ] 114.249.211.116 /index.php/Api/Product/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:57:03+08:00 ] 114.249.211.116 /index.php/Api/Shopping/add
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:57:03+08:00 ] 114.249.211.116 /index.php/Api/Payment/buy_cart
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:57:09+08:00 ] 114.249.211.116 /index.php/Api/Payment/payment
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+ERR: 1048:Column 'shop_id' cannot be null
+ [ SQL语句 ] : INSERT INTO `lr_order` (`shop_id`,`uid`,`post`,`price`,`amount`,`addtime`,`del`,`type`,`status`,`receiver`,`tel`,`address_xq`,`code`,`product_num`,`remark`,`order_sn`) VALUES (NULL,'4','0','0','0','1513760229','0','weixin','10','唐一行','18146518940','北京 北京 东城区 沙河地铁站','110101','0','','2017122053511004')
+ERR: 1048:Column 'shop_id' cannot be null
+ [ SQL语句 ] : INSERT INTO `lr_order` (`shop_id`,`uid`,`post`,`price`,`amount`,`addtime`,`del`,`type`,`status`,`receiver`,`tel`,`address_xq`,`code`,`product_num`,`remark`,`order_sn`) VALUES (NULL,'4','0','0','0','1513760229','0','weixin','10','唐一行','18146518940','北京 北京 东城区 沙河地铁站','110101','0','','2017122053511004')
+
+[ 2017-12-20T16:57:34+08:00 ] 114.249.211.116 /index.php/Api/Product/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:57:38+08:00 ] 114.249.211.116 /index.php/Api/Shopping/add
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:57:38+08:00 ] 114.249.211.116 /index.php/Api/Payment/buy_cart
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:58:02+08:00 ] 114.249.211.116 /index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:58:02+08:00 ] 114.249.211.116 /index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T16:58:03+08:00 ] 114.249.211.116 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:05:34+08:00 ] 114.249.211.116 /index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:05:35+08:00 ] 114.249.211.116 /index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:05:35+08:00 ] 114.249.211.116 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:07:50+08:00 ] 114.249.211.116 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:07:50+08:00 ] 114.249.211.116 /index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:07:50+08:00 ] 114.249.211.116 /index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:07:54+08:00 ] 114.249.211.116 /index.php/Api/Category/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:07:57+08:00 ] 114.249.211.116 /index.php/Api/Shopping/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:07:57+08:00 ] 114.249.211.116 /index.php/Api/Shopping/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:07:58+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:07:58+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:08:10+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:08:18+08:00 ] 114.249.211.116 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:08:19+08:00 ] 114.249.211.116 /index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:08:19+08:00 ] 114.249.211.116 /index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:12:26+08:00 ] 114.249.211.116 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:12:26+08:00 ] 114.249.211.116 /index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:12:27+08:00 ] 114.249.211.116 /index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:22:37+08:00 ] 111.196.242.143 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:22:40+08:00 ] 111.196.242.143 /index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:22:40+08:00 ] 111.196.242.143 /index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:23:37+08:00 ] 114.249.211.116 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:23:37+08:00 ] 114.249.211.116 /index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:23:38+08:00 ] 114.249.211.116 /index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:26:22+08:00 ] 111.196.242.143 /index.php/Api/Category/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:26:25+08:00 ] 111.196.242.143 /index.php/Api/Shopping/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:26:25+08:00 ] 111.196.242.143 /index.php/Api/Shopping/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:26:27+08:00 ] 111.196.242.143 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:26:27+08:00 ] 111.196.242.143 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:39:29+08:00 ] 114.249.211.116 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:39:30+08:00 ] 114.249.211.116 /index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:39:30+08:00 ] 114.249.211.116 /index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:39:32+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:39:32+08:00 ] 114.249.211.116 /index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:39:34+08:00 ] 114.249.211.116 /index.php/Api/Address/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:39:42+08:00 ] 114.249.211.116 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:39:48+08:00 ] 114.249.211.116 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:39:48+08:00 ] 114.249.211.116 /index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:39:49+08:00 ] 114.249.211.116 /index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:39:50+08:00 ] 114.249.211.116 /index.php/Api/Shopping/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:39:50+08:00 ] 114.249.211.116 /index.php/Api/Shopping/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:39:53+08:00 ] 114.249.211.116 /index.php/Api/Payment/buy_cart
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:39:55+08:00 ] 114.249.211.116 /index.php/Api/Payment/payment
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:39:55+08:00 ] 114.249.211.116 /index.php/Api/Wxpay/wxpay
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T17:40:03+08:00 ] 114.249.211.116 /index.php/Api/Address/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T18:48:59+08:00 ] 114.249.211.116 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T18:48:59+08:00 ] 114.249.211.116 /index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-12-20T18:49:00+08:00 ] 114.249.211.116 /index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /home/wwwroot/default/wechat_shop-master/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /home/wwwroot/default/wechat_shop-master/App/Api/Conf/config.php 第 40 行.
+
