@@ -13,15 +13,6 @@ class VoucherController extends PublicController{
 			$where .=' AND title LIKE "%'.$keyword.'%"';
 		}
 
-		if (intval($_SESSION['admininfo']['qx'])!=4) {
-			$shop_id = intval($_SESSION['admininfo']['shop_id']);
-			if (!$shop_id) {
-				echo "<script>alert('店铺状态异常！');</script>";
-				exit();
-			}
-			$where .=' AND shop_id='.$shop_id;
-		}
-
 		define('rows',10);
 		$count=M('voucher')->where($where)->count();
 		$rows=ceil($count/rows);
