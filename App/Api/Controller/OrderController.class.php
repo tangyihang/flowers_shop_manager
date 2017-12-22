@@ -291,7 +291,7 @@ class OrderController extends PublicController {
 		$id=intval($_REQUEST['id']);
 		$qz=C('DB_PREFIX');	//前缀
 
-		$order_info = $orders->where('id='.intval($order_id.' AND del=0'))->field('id,order_sn,shop_id,status,addtime,price,type,post,tel,receiver,address_xq,remark')->find();
+		$order_info = $orders->where('id='.intval($order_id.' AND del=0'))->field('id,order_sn,shop_id,status,addtime,price,type,post,tel,receiver,address_xq,kuaidi_name,kuaidi_num,remark')->find();
 		if (!$order_info) {
 			echo json_encode(array('status'=>0,'err'=>'订单信息错误.'));
 			exit();
