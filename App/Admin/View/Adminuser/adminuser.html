@@ -158,11 +158,6 @@
         location=url;
     }
 
-    //更改按钮
-    if(type=='xz'){
-        $('.obj_1').html('<input type="button" value="选 择" class="aaa_pts_web_3" style="margin:3px 0;" onclick="window_opener(this)">');
-    }
-
     function window_opener(e){
         var obj=$(e);
         window.opener.document.getElementById('uid').value=obj.parent().parent().attr('data-id');
@@ -173,7 +168,7 @@
 
     function del_id_urls(id,page){
         if(confirm('你确定要执行此操作吗？')){
-            location.href='{:U("del")}?did='+id+'&page='+page;
+            location='{:U("del")}?did='+id+'&page='+page;
         }
     }
 </script>
