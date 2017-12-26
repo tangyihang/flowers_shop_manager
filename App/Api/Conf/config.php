@@ -51,11 +51,11 @@ return array(
     'weixin'=>array(
 
 
-        'appid' =>'wx3d8e4eca201aa5ac',			//微信appid
-        'secret'=>'10ccdf6ceea0dc5e455e4c4347238eb9', //微信secret
+        'appid' =>'wx5dc4b2b8c0a78d8f',			//微信appid
+        'secret'=>'31caf39df151ae872c61600a18f343cf', //微信secret
 
-        'mchid' => '',
-        'key' => '',
+        'mchid' => '1495032672',
+        'key' => 'd2b60fd1107160ecf1a82011f1447bbc',
 
         //这里是异步通知页面url，提交到项目的Pay控制器的notifyurl方法；
         'notify_url'=>'https://shop.361trees.com/index.php/Api/Wxpay/notify',
