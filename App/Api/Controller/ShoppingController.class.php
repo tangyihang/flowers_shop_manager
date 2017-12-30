@@ -182,13 +182,14 @@ class ShoppingController extends PublicController {
 		$data = array();
 		$cart_info = $shpp->where('pid='.intval($pid).' AND uid='.intval($uid))->field('id,num')->find();
 		if ($cart_info) {
-			$data['num'] = intval($cart_info['num'])+intval($num);
-			//判断库存
-			if (intval($check_info['num'])<=$data['num']) {
-				echo json_encode(array('status'=>0,'err'=>'库存不足！'));
-				exit;
-			}
-			$res = $shpp->where('id='.intval($cart_info['id']))->save($data);
+			$data['num'] = intval($num);
+            //判断库存
+            if (intval($check_info['num'])<=$data['num']) {
+                    echo json_encode(array('status'=>0,'err'=>'库存不足！'));
+                    exit;
+            }
+            $reg = $shpp->where('id='.intval($cart_info['id']))->save($data);
+            $res = $cart_info['id']; 
 		}else{
 			$data['pid']=intval($pid);
 			$data['num']=intval($num);
